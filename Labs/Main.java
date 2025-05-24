@@ -1,3 +1,4 @@
+package Labs;
 // public static void main(String[] args) {
 
 // }
@@ -16,3 +17,14 @@
 //         System.out.println ("Meu nome é");
 //     }
 // }
+public class Main {
+    public static void main (String[] args){
+        String nomeDArua = "Rua Jaqueira";{
+            if (nomeDArua == "Rua do Sol" ) {
+                System.out.println("True");
+            } else {
+                System.out.println("False");
+            }
+        }
+    }
+}
